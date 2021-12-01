@@ -4,7 +4,7 @@ Projeto criado após minha conclusão do curso de Algoritmo do Prof. Gustavo Gua
 Fiz esse projeto com base na minha experência de Analista de DP Jr 😊
 Queria criar algo do qual eu conhecia e sabia, sendo assim, tive a ideia de fazer uma FOPAG com base no meu holerite/demonstrativo de pagamento/contra cheque 🤓💰💸
 
-Basicamente são informações que constavam no meu holerite, como:
+**Basicamente são informações que constavam no meu holerite, como:**
 - Contabilização de adiantamento quinzenal;
 - Pagamento de salário base;
 - Pagamento de abono por tempo de serviço sobre um valor fixo;
